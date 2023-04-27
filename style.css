@@ -134,11 +134,10 @@ header{
     display: flex;
     justify-content: space-evenly;
     flex-wrap: wrap;
-    /* gap: 25px; */
 }
 
 .menu-cols{
-    width: 315px;
+    width: 326px;
     border: 2px solid green;
     border-radius: 30px;
     background-color: aqua;
